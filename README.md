@@ -4,8 +4,7 @@ Using a bit of *italic* exercices as well as **bold**
 ## Or two? 
 It is either a 
 1. Yes
-```or a
-```
+`or a` 
 2. No 
 > What do you think?
 
